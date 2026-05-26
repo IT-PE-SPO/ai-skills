@@ -7,7 +7,7 @@ Claude Code skills and configuration.
 ```bash
 git clone git@github.com:cnbsoft-com/dotfiles.git ~/dotfiles
 mkdir -p ~/.claude
-ln -s ~/dotfiles/.claude/skills ~/.claude/skills
+ln -s ~/dotfiles//skills/* ~/.claude/skills/
 ```
 
 ## Skills
